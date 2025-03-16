@@ -1,65 +1,66 @@
-<h1 align="center">Hey there! 👋 I'm Prashant Raj</h1>
+<h2 align="left">Hi 👋! I'm Prashant Raj</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="250" />
-</p>
+###
 
----
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt0ZzlibzJpaWRmYnM3d3RtNTg2d3Axb2tyN2xtMTU1NnExeG94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cz4zNw55zakg2nglWn/giphy.gif"  />
 
-## 🚀 About Me
+<!-- COFFEE -->
 
-🔹 Passionate **Data Science Enthusiast** with a keen interest in **Machine Learning**, **Web Scraping**, and **Web Development**.
+###
 
-🔹 Skilled in **Python**, **Power BI**, **Data Analysis**, and **Web Technologies**.
+### About Me
+I'm a passionate **Data Science** student with a focus on **Machine Learning** and **Web Scraping**. I love solving real-world problems through data and turning complex data into actionable insights. I am currently honing my skills in **Python**, **Power BI**, and **Automation**.
 
-🔹 Love transforming raw data into actionable insights and building solutions that have a real-world impact.
-
----
-
-## 💻 Skills & Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,matplotlib,selenium,powerbi,mysql,c,html,css,vscode,github,anaconda" height="50" alt="Tech Stack" />
+### Skills & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="powerbi logo" />
 </div>
 
----
+###
 
-## 📌 Projects
+### Projects
+- **Machine Learning Models:** Developed models for churn prediction and flower classification using Python and scikit-learn.
+- **Data Analysis Dashboard:** Created an interactive Power BI dashboard for **Yhills Company** to visualize business performance metrics.
 
-🔹 **Machine Learning Models:** Built predictive models for customer churn and flower classification using Python & Scikit-learn.
+### Let's Connect
+I'm always open to new ideas and collaboration. Feel free to reach out to me through the following platforms:
 
-🔹 **Data Analysis Dashboard:** Developed an interactive **Power BI dashboard** to analyze business performance trends.
-
-🔹 **E-Commerce Website:** Designed and developed a functional e-commerce site using **HTML & CSS**.
-
-🔹 **Advanced Web Scraper:** Implemented a web scraper capable of handling JavaScript-heavy sites and bypassing anti-scraping measures.
-
----
-
-## 🌍 Let's Connect
-
-<div align="center">
-  <a href="https://www.instagram.com/prashantraj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+<div align="left">
+  <a href="https://www.instagram.com/theritikbarnwal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/prashantraj/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  <a href="https://www.linkedin.com/in/theritikbarnwal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/prashantraj" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
+  <a href="https://x.com/theritikbarnwal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
----
+###
 
-## 🎉 Fun Facts
-
-✨ Currently diving into **Advanced Web Scraping Techniques**, including handling JavaScript-heavy websites.
-
-✨ Love experimenting with data and exploring new **AI & ML** trends.
-
-✨ Always open to exciting collaborations and learning opportunities!
-
----
-
-🔥 **Let's build something amazing together!** 🚀
+### Fun Facts
+- I’m currently learning **advanced web scraping techniques**, including dynamic content scraping and bypassing anti-scraping measures.
+- I love exploring the **data science** space and creating projects that make a real impact.
