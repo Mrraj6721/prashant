@@ -1,62 +1,73 @@
-<h2 align="left">Hi 👋! I'm Prashant Raj</h2>
+<h1 align="center">Hi 👋, I'm Prashant Raj</h1>
+<h3 align="center">🔍 Data Science • 🤖 Machine Learning • 📊 Power BI • ⚙️ Python Automation</h3>
 
-###
+<p align="center">
+  <a href="https://prashantraj.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-darkgreen?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prashantraj6721/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Prashant_Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mr_raj67_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@mr_raj67_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mrraj6721@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt0ZzlibzJpaWRmYnM3d3RtNTg2d3Axb2tyN2xtMTU1NnExeG94aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cz4zNw55zakg2nglWn/giphy.gif"  />
+---
 
-<!-- COFFEE -->
+### 💼 About Me
 
-###
+Driven by curiosity and powered by data, I design intelligent systems that uncover patterns, drive decisions, and solve business problems.
 
-### About Me
-I'm a passionate **Data Science** student with a focus on **Machine Learning** and **Web Scraping**. I love solving real-world problems through data and turning complex data into actionable insights. I am currently honing my skills in **Python**, **Power BI**, and **Automation**.
+I specialize in:
+- Building **automated data pipelines & dashboards** that simplify complexity
+- Creating **ML models** with clean structure and high interpretability
+- Turning raw datasets into **compelling visual insights**
+- Using code to solve practical, real-world problems
 
-### Skills & Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="30" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="30" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="powerbi logo" />
-</div>
+My goal? To **transform data into action** — beautifully, efficiently, and intelligently.
 
-###
+---
 
-### Projects
-- **Machine Learning Models:** Developed models for churn prediction and flower classification using Python and scikit-learn.
-- **Data Analysis Dashboard:** Created an interactive Power BI dashboard for **Google** to visualize stock performance metrics.
+### ⚒️ Toolbox & Tech Stack
 
-### Let's Connect
-I'm always open to new ideas and collaboration. Feel free to reach out to me through the following platforms:
+#### 📊 **Data Science & Machine Learning**
+`Python` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Anaconda`
 
-<div align="left">
- 
-  <a href="https://www.linkedin.com/in/prashantraj6721/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Prashant Raj&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
- 
-</div>
+#### 🗃️ **Databases & Querying**
+`MySQL` • `SQLite` • `SQL Queries` • `Data Normalization`
 
-###
+#### 📈 **Business Intelligence & Dashboards**
+`Power BI` • `DAX` • `Dynamic KPI Cards` • `Custom Slicers` • `Candlestick Visuals`
 
-### Fun Facts
+#### 🌐 **Frontend Basics**
+`HTML` • `CSS` • `JavaScript`  
+(Used for personal projects, portfolios, and dashboard front-ends)
 
-- I love exploring the **data science** space and creating projects that make a real impact.
+#### 🛠️ **Developer Tools & Workflow**
+`GitHub` • `VS Code` • `Replit` • `Eclipse IDE` • `Jupyter Notebooks`
+
+---
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrraj6721&show_icons=true&theme=react" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mrraj6721&theme=react" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+Whether it's data-driven collaboration, automation magic, or dashboard design —  
+I'm open to **project work**, **internship roles**, and **tech networking**.
+
+📫 Reach me via:  
+🔗 [**Portfolio Website**](https://prashantraj.vercel.app/)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/prashantraj6721/)  
+📧 [**Email**](mailto:mrraj6721@gmail.com)  
+📷 [**Instagram**](https://www.instagram.com/mr_raj67_/)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
