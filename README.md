@@ -42,25 +42,21 @@ I'm a passionate **Data Science** student with a focus on **Machine Learning** a
 
 ### Projects
 - **Machine Learning Models:** Developed models for churn prediction and flower classification using Python and scikit-learn.
-- **Data Analysis Dashboard:** Created an interactive Power BI dashboard for **Yhills Company** to visualize business performance metrics.
+- **Data Analysis Dashboard:** Created an interactive Power BI dashboard for **Google** to visualize stock performance metrics.
 
 ### Let's Connect
 I'm always open to new ideas and collaboration. Feel free to reach out to me through the following platforms:
 
 <div align="left">
-  <a href="https://www.instagram.com/theritikbarnwal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+ 
+  <a href="https://www.linkedin.com/in/prashantraj6721/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Prashant Raj&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/theritikbarnwal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/theritikbarnwal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=theritikbarnwal&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+ 
 </div>
 
 ###
 
 ### Fun Facts
-- I’m currently learning **advanced web scraping techniques**, including dynamic content scraping and bypassing anti-scraping measures.
+
 - I love exploring the **data science** space and creating projects that make a real impact.
